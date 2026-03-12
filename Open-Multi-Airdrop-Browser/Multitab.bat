@@ -8,3 +8,4 @@ start chrome https://rewards.dtelecom.org/reward?referral_code=GGCRYPTO
 start chrome https://app.decibel.trade/trade
 start chrome https://dream.degen.tips/dashboard
 start chrome https://portal.stormrae.ai?ref=gaogaocrypto
+start chrome https://www.neftit.xyz/
