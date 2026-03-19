@@ -10,3 +10,4 @@ start chrome https://dream.degen.tips/dashboard
 start chrome https://portal.stormrae.ai?ref=gaogaocrypto
 start chrome https://www.neftit.xyz/
 start chrome https://hub.konnex.world/points?referral_code=PE0OOO1X
+start chrome https://cedomis.xyz/dashboard
