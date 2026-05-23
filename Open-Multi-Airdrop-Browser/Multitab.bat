@@ -4,8 +4,6 @@ start chrome https://app.prismax.ai/start
 start chrome https://gm.inkonchain.com/
 start chrome https://hub.playai.network/missions
 start chrome https://waitlist.kindredlabs.ai/dashboard
-start chrome https://rewards.dtelecom.org/reward?referral_code=GGCRYPTO
-start chrome https://app.decibel.trade/trade
 start chrome https://portal.stormrae.ai?ref=gaogaocrypto
 start chrome https://www.neftit.xyz/
 start chrome https://hub.konnex.world/points?referral_code=PE0OOO1X
@@ -13,7 +11,6 @@ start chrome https://cedomis.xyz/dashboard
 start chrome https://hub.axisrobotics.ai/?tab=hub
 start chrome https://inception.dachain.io/faucet
 start chrome https://quest.quip.network/airdrop?referral_code=K83J3XBX
-start chrome https://beta.omenx.com/en/events
 start chrome https://testnet.byzanlink.com/vaults/byzanlink-blue-chip-yield-vault?ref=apparent-white-ocelot
 start chrome https://t.me/EverythingTradeOfficial_bot?start=SBT_GaoGao
 start chrome https://quest.unicity.network?ref=l6paVFwf
@@ -24,3 +21,4 @@ start chrome https://testnet.sodex.com/trade/spot/BTC_USDC
 start chrome https://task.simplechain.com?inviteCode=9v65ncxc54f
 start chrome https://app.allscale.io/pay/register?code=NzXzvNRLgSdSV8mmX5ciuvHIX3gm9anI4kmLFdU6fBHSEhKeRYOmShKemNFkqtduTfmz4g==
 start chrome https://community.arc.network/home/content
+start chrome https://hub.sleepagotchi.com/loyalty
