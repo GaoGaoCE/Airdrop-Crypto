@@ -21,4 +21,4 @@ start chrome https://testnet.sodex.com/trade/spot/BTC_USDC
 start chrome https://task.simplechain.com?inviteCode=9v65ncxc54f
 start chrome https://app.allscale.io/pay/register?code=NzXzvNRLgSdSV8mmX5ciuvHIX3gm9anI4kmLFdU6fBHSEhKeRYOmShKemNFkqtduTfmz4g==
 start chrome https://community.arc.network/home/content
-start chrome https://hub.sleepagotchi.com/loyalty
+start chrome https://hub.sleepagotchi.com/loyalty?referral_code=JR0OCWEO
